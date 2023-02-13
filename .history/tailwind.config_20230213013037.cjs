@@ -6,7 +6,7 @@ module.exports = {
       backgroundImage: {
         mobile: "url('./src/assets/mobile.webp')",
         desktop: "url('/src/assets/desktop.webp')",
-        test: "url('/src/assets/test.png')",
+        test: "url('./src/assets/test.png')",
       },
     },
   },
